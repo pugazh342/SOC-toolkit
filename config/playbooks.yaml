@@ -1,0 +1,41 @@
+# BlueDefenderX/config/playbooks.yaml
+playbooks:
+  # Playbook for SSH Brute Force Alerts
+  - name: "Respond to SSH Brute Force"
+    description: "Isolate the source IP and notify the security team."
+    trigger:
+      rule_id: "T1110_001_brute_force_ssh"
+    actions:
+      - type: "isolate_ip"
+        # --- CORRECTED PLACEHOLDERS (no 'alert.' prefix) ---
+        target_ip: "{{ details.matched_value }}" # Directly access 'details' key in alert dict
+        reason: "SSH Brute Force detected from {{ details.matched_value }} (Count: {{ details.count }})"
+
+      - type: "send_notification"
+        # --- CORRECTED PLACEHOLDERS ---
+        message: |
+          **Incident Response Triggered: SSH Brute Force**
+          - **Alert Title:** {{ title }} # Directly access 'title' key
+          - **Source IP:** {{ details.matched_value }}
+          - **Event Count:** {{ details.count }}
+          - **Threshold:** {{ details.threshold }}
+          - **Timestamp:** {{ timestamp }}
+          - **Action Taken:** IP isolated on network devices.
+        channels: ["slack", "email"]
+
+  # Playbook for Anomalies (Generic Example)
+  - name: "Review Anomalous Activity"
+    description: "Notify the security team for manual review of detected anomaly."
+    trigger:
+      mitre_technique_id: "T1071" # Example technique ID for anomalies
+    actions:
+      - type: "send_notification"
+        # --- CORRECTED PLACEHOLDERS ---
+        message: |
+          **Anomaly Detected Requiring Review**
+          - **Description:** An behavioral anomaly was detected.
+          - **MITRE Technique:** {{ mitre.technique_id }} - {{ mitre.technique_name }} # Access 'mitre' key
+          - **Timestamp:** {{ timestamp }}
+          - **Details:** Please review the source data in the Anomalies tab.
+        channels: ["slack", "email"]
+# Note: Ensure that the placeholders are correctly referenced in the playbook actions.

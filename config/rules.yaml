@@ -1,0 +1,40 @@
+# BlueDefenderX/config/rules.yaml
+rules:
+  - id: "T1110_001_brute_force_ssh"
+    title: "Potential SSH Brute Force Attempt"
+    description: "Detects multiple failed SSH login attempts from a single source IP."
+    logsource:
+      product: linux
+      service: sshd
+    detection:
+      selection:
+        message: "Failed password" # <-- Key part: matching the 'message' field
+      timeframe: 1m
+      condition: "selection | count() by src_ip > 5"
+    level: high
+    status: experimental
+    author: "BlueDefenderX"
+    tags:
+      - attack.initial_access
+      - attack.t1110.001
+
+  # --- Disabled Complex Rule ---
+  - id: "T1078_valid_accounts_web_login"
+    title: "Suspicious Web Login Pattern"
+    description: "Detects multiple failed logins followed by a successful login for the same user."
+    logsource:
+       category: webserver
+    detection:
+       failed_login:
+        status: "401"
+       successful_login:
+         status: "200"
+         path: "/login"
+       timeframe: 30m
+       condition: "failed_login | count() by user > 3 and successful_login"
+    level: medium
+    status: experimental
+    author: "BlueDefenderX"
+    tags:
+       - attack.initial_access
+       - attack.t1078

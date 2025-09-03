@@ -1,0 +1,26 @@
+{
+    "feeds": [
+        {
+            "name": "AbuseIPDB",
+            "type": "ip",
+            "url": "https://api.abuseipdb.com/api/v2/check",
+            "api_key": "YOUR_ABUSEIPDB_API_KEY",
+            "format": "json",
+            "enabled": false
+        },
+        {
+            "name": "LocalMaliciousIPs",
+            "type": "ip",
+            "url": "file://./config/local_malicious_ips.txt",
+            "format": "txt",
+            "enabled": true
+        },
+        {
+            "name": "ExampleDomainFeed",
+            "type": "domain",
+            "url": "https://example.com/threat_domains.txt",
+            "format": "txt",
+            "enabled": false
+        }
+    ]
+} 

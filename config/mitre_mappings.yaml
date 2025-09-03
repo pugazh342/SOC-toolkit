@@ -1,0 +1,28 @@
+# BlueDefenderX/config/mitre_mappings.yaml
+mappings:
+  # Mapping based on Sigma Rule ID
+  "T1110_001_brute_force_ssh":
+    technique_id: "T1110.001"
+    technique_name: "Brute Force: Password Guessing"
+    tactics:
+      - "TA0006 - Initial Access"
+    description: "Adversaries may try to guess passwords using a systematic approach."
+  
+  "T1078_valid_accounts_web_login":
+    technique_id: "T1078"
+    technique_name: "Valid Accounts"
+    tactics:
+      - "TA0001 - Initial Access"
+      - "TA0008 - Lateral Movement"
+    description: "Adversaries may steal credentials to gain access to systems."
+
+  # Generic mapping for anomalies detected by AnomalyDetector
+  # This is a placeholder. A real implementation might map based on feature types or anomaly characteristics.
+  "__anomaly__":
+    technique_id: "T1071" # Example: Application Layer Protocol, or T1095: Non-Application Layer Protocol
+    technique_name: "Anomaly Detected (Unspecified)"
+    tactics:
+      - "TA0007 - Discovery" # Example tactic, could be Execution, Defense Evasion, etc.
+    description: "A behavioral anomaly was detected, potentially indicating malicious activity."
+
+  # Add more mappings as rules and detections are added

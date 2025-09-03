@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+pyyaml>=6.0
+requests>=2.31.0
+pandas>=1.5.0
+scikit-learn>=1.3.0
+psutil>=5.9.0
+python-whois>=0.9.0
+dnspython>=2.4.0
+requests-socks>=1.2.0
+# Add more as specific RedOpsSuite modules require them (e.g., nmap, sqlmap API wrappers)

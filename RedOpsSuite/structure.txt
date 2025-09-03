@@ -1,0 +1,13 @@
+RedOpsSuite/
+├── modules/
+│   ├── recon/                  # Information gathering
+│   ├── network_scan/           # Network scanning
+│   ├── web_vuln_scan/          # Web vulnerability scanning
+│   ├── auth_tests/             # Authentication testing
+│   ├── sqli/                   # SQL Injection tools
+│   ├── xss_csrf/               # XSS/CSRF tools
+│   ├── file_inclusion/         # File Inclusion tools
+│   ├── cloud_attacks/          # Cloud-specific attacks
+│   ├── ci_cd_secrets/         # CI/CD pipeline secret hunting
+│   └── obfuscation/            # Payload obfuscation
+# ... (integration, reporting, dashboard_gui)

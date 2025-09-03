@@ -1,0 +1,55 @@
+# BlueDefenderX/config/compliance_baselines.yaml
+baselines:
+  cis_linux:
+    - id: "CIS_Linux_1.1.1.1"
+      description: "Ensure mounting of cramfs filesystems is disabled"
+      check_type: "command" # Type of check
+      check_command: "modprobe -n -v cramfs"
+      expected_output: "install /bin/true" # Exact match expected
+      severity: "high"
+      enabled: true
+
+    - id: "CIS_Linux_5.2.1"
+      description: "Ensure permissions on /etc/ssh/sshd_config are configured"
+      check_type: "command"
+      check_command: "stat /etc/ssh/sshd_config"
+      expected_output_regex: "Uid:.*0.* Gid:.*0.*" # Regex match expected
+      severity: "medium"
+      enabled: true
+
+    - id: "CIS_Linux_1.4.1"
+      description: "Ensure AIDE is installed"
+      check_type: "command"
+      check_command: "dpkg -s aide" # For Debian/Ubuntu, rpm -q aide for RHEL/CentOS
+      expected_output_regex: "Status: install ok installed"
+      severity: "medium"
+      enabled: false # Disabled for simulation, as it might not be installed
+
+    - id: "CIS_Custom_SSH_Version"
+      description: "Ensure SSH version is not outdated (example check)"
+      check_type: "command"
+      check_command: "sshd -V 2>&1 | head -n 1" # Get SSH version
+      # This is a simplified example. A real check would be more complex.
+      # expected_output_regex would depend on the acceptable version string.
+      expected_output_contains: "OpenSSH_" # Just check if it's OpenSSH
+      severity: "medium"
+      enabled: true
+
+  nist_800_53:
+    - id: "NIST_800-53_AC-2"
+      description: "Account Management - Ensure account management policies are enforced"
+      check_type: "manual" # Indicates this requires manual review
+      check_command: "echo 'Check if account management policies (password age, lockout) are configured according to organizational policy'"
+      expected_output: "Policies enforced (manual check required)"
+      severity: "medium"
+      enabled: true
+
+    - id: "NIST_800-53_AU-12"
+      description: "Audit Record Generation - Ensure audit logging is enabled and configured"
+      check_type: "command"
+      check_command: "systemctl is-active auditd"
+      expected_output: "active"
+      severity: "high"
+      enabled: true
+
+# Add more baselines and checks as needed

@@ -1,0 +1,4183 @@
+{
+    "collection_timestamp": "2025-07-31T15:12:29.597413Z",
+    "host": "LAPTOP-0DA8F8C4",
+    "os": "Windows 10",
+    "system_info": {
+        "timestamp": "2025-07-31T15:12:30.613523Z",
+        "host": "LAPTOP-0DA8F8C4",
+        "os": "Windows 10",
+        "architecture": "AMD64",
+        "boot_time": "2025-07-17T19:43:36.597414Z",
+        "uptime_seconds": 1213132.999999,
+        "cpu_cores_logical": 12,
+        "cpu_cores_physical": 8,
+        "cpu_percent": 11.2,
+        "memory_total_gb": 15.7,
+        "memory_available_gb": 5.63,
+        "memory_percent": 64.2
+    },
+    "processes": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "username": "NT AUTHORITY\\SYSTEM",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.0,
+            "uptime_seconds": null,
+            "cmdline": ""
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "username": "NT AUTHORITY\\SYSTEM",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": null,
+            "cmdline": ""
+        },
+        {
+            "pid": 188,
+            "name": "",
+            "username": null,
+            "status": "stopped",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.38,
+            "uptime_seconds": 1213138.06,
+            "cmdline": ""
+        },
+        {
+            "pid": 232,
+            "name": "Registry",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.32,
+            "uptime_seconds": 1213138.07,
+            "cmdline": ""
+        },
+        {
+            "pid": 792,
+            "name": "smss.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.0,
+            "uptime_seconds": 1213133.82,
+            "cmdline": ""
+        },
+        {
+            "pid": 1124,
+            "name": "csrss.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213123.11,
+            "cmdline": ""
+        },
+        {
+            "pid": 1212,
+            "name": "wininit.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213122.89,
+            "cmdline": ""
+        },
+        {
+            "pid": 1260,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1212997.84,
+            "cmdline": ""
+        },
+        {
+            "pid": 1336,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1212997.74,
+            "cmdline": ""
+        },
+        {
+            "pid": 1360,
+            "name": "services.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213122.96,
+            "cmdline": ""
+        },
+        {
+            "pid": 1372,
+            "name": "LsaIso.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213122.97,
+            "cmdline": ""
+        },
+        {
+            "pid": 1396,
+            "name": "lsass.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.15,
+            "uptime_seconds": 1213123.0,
+            "cmdline": ""
+        },
+        {
+            "pid": 1464,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 4.23,
+            "uptime_seconds": 49267.2,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=17 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1163930597079 --metrics-shmem-handle=5956,i,7355159737087293293,18396032719618934736,2097152 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variati"
+        },
+        {
+            "pid": 1508,
+            "name": "NgcIso.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213117.99,
+            "cmdline": ""
+        },
+        {
+            "pid": 1516,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.24,
+            "uptime_seconds": 1213122.86,
+            "cmdline": ""
+        },
+        {
+            "pid": 1536,
+            "name": "fontdrvhost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213122.9,
+            "cmdline": ""
+        },
+        {
+            "pid": 1620,
+            "name": "WUDFHost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213122.93,
+            "cmdline": ""
+        },
+        {
+            "pid": 1672,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 1213122.94,
+            "cmdline": ""
+        },
+        {
+            "pid": 1724,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1213122.96,
+            "cmdline": ""
+        },
+        {
+            "pid": 1756,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1636.48,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=crashpad-handler --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Microsoft\\Edge\\User Data /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\kpuga\\AppData\\Local\\Microsoft\\Edge\\User Data\\Crashpad --metrics-dir=C:\\Users\\kpuga\\AppData\\Local\\Microsoft\\Edge\\User Data --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=138.0.7204.169 --annotation=exe=C:\\Program Files (x86)\\Micr"
+        },
+        {
+            "pid": 1780,
+            "name": "WUDFHost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213122.97,
+            "cmdline": ""
+        },
+        {
+            "pid": 1872,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.34,
+            "uptime_seconds": 49648.51,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=gpu-process --noerrdialogs --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26100.4652) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26100 IsWebView2/True (WebView2Version 138.0.3351.109) --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=Sear"
+        },
+        {
+            "pid": 1944,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213122.97,
+            "cmdline": ""
+        },
+        {
+            "pid": 1956,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213123.01,
+            "cmdline": ""
+        },
+        {
+            "pid": 1976,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213118.73,
+            "cmdline": ""
+        },
+        {
+            "pid": 2012,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1213123.08,
+            "cmdline": ""
+        },
+        {
+            "pid": 2072,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213123.1,
+            "cmdline": ""
+        },
+        {
+            "pid": 2080,
+            "name": "FileSyncHelper.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 287194.49,
+            "cmdline": ""
+        },
+        {
+            "pid": 2100,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 1213123.18,
+            "cmdline": ""
+        },
+        {
+            "pid": 2112,
+            "name": "WUDFHost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1213123.22,
+            "cmdline": ""
+        },
+        {
+            "pid": 2168,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213123.25,
+            "cmdline": ""
+        },
+        {
+            "pid": 2196,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213123.27,
+            "cmdline": ""
+        },
+        {
+            "pid": 2208,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213123.31,
+            "cmdline": ""
+        },
+        {
+            "pid": 2220,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213123.36,
+            "cmdline": ""
+        },
+        {
+            "pid": 2272,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213123.38,
+            "cmdline": ""
+        },
+        {
+            "pid": 2396,
+            "name": "IntelCpHDCPSvc.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213123.39,
+            "cmdline": ""
+        },
+        {
+            "pid": 2416,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 1213123.43,
+            "cmdline": ""
+        },
+        {
+            "pid": 2436,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213123.46,
+            "cmdline": ""
+        },
+        {
+            "pid": 2476,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 2140.21,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView /prefetch:4 /pfhostedapp:8d576a6a25b274f2f86c3e7a69b6aca9d328dc03 --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView\\Crashpad --metrics-di"
+        },
+        {
+            "pid": 2484,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213123.51,
+            "cmdline": ""
+        },
+        {
+            "pid": 2492,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213123.55,
+            "cmdline": ""
+        },
+        {
+            "pid": 2516,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.9,
+            "uptime_seconds": 1637.08,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=gpu-process --no-pre-read-main-dll --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284354636,262144 --variations-seed-version --mojo-platform-channel-handle=2332 /prefetch:2"
+        },
+        {
+            "pid": 2556,
+            "name": "SecurityHealthService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213084.64,
+            "cmdline": ""
+        },
+        {
+            "pid": 2724,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1213123.63,
+            "cmdline": ""
+        },
+        {
+            "pid": 2764,
+            "name": "WUDFHost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213123.66,
+            "cmdline": ""
+        },
+        {
+            "pid": 2772,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213123.64,
+            "cmdline": ""
+        },
+        {
+            "pid": 2776,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.25,
+            "uptime_seconds": 1213123.11,
+            "cmdline": ""
+        },
+        {
+            "pid": 3024,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.27,
+            "uptime_seconds": 49373.56,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 3060,
+            "name": "AppProvisioningPlugin.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 996760.65,
+            "cmdline": ""
+        },
+        {
+            "pid": 3164,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213123.76,
+            "cmdline": ""
+        },
+        {
+            "pid": 3172,
+            "name": "WUDFHost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213123.81,
+            "cmdline": ""
+        },
+        {
+            "pid": 3220,
+            "name": "NisSrv.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 555695.32,
+            "cmdline": ""
+        },
+        {
+            "pid": 3328,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213123.33,
+            "cmdline": ""
+        },
+        {
+            "pid": 3388,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213123.89,
+            "cmdline": ""
+        },
+        {
+            "pid": 3416,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213123.93,
+            "cmdline": ""
+        },
+        {
+            "pid": 3484,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213123.98,
+            "cmdline": ""
+        },
+        {
+            "pid": 3488,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1213124.03,
+            "cmdline": ""
+        },
+        {
+            "pid": 3500,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213124.09,
+            "cmdline": ""
+        },
+        {
+            "pid": 3608,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 1213124.13,
+            "cmdline": ""
+        },
+        {
+            "pid": 3644,
+            "name": "MemCompression",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 2.53,
+            "uptime_seconds": 1213124.17,
+            "cmdline": ""
+        },
+        {
+            "pid": 3688,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.21,
+            "cmdline": ""
+        },
+        {
+            "pid": 3756,
+            "name": "OfficeClickToRun.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "uptime_seconds": 465695.06,
+            "cmdline": ""
+        },
+        {
+            "pid": 3764,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213124.27,
+            "cmdline": ""
+        },
+        {
+            "pid": 3772,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213124.31,
+            "cmdline": ""
+        },
+        {
+            "pid": 3800,
+            "name": "WMIRegistrationService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213123.91,
+            "cmdline": ""
+        },
+        {
+            "pid": 3868,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 1213124.36,
+            "cmdline": ""
+        },
+        {
+            "pid": 3896,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213124.01,
+            "cmdline": ""
+        },
+        {
+            "pid": 3904,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213124.43,
+            "cmdline": ""
+        },
+        {
+            "pid": 4012,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213124.43,
+            "cmdline": ""
+        },
+        {
+            "pid": 4044,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.19,
+            "uptime_seconds": 1213124.46,
+            "cmdline": ""
+        },
+        {
+            "pid": 4052,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.5,
+            "cmdline": ""
+        },
+        {
+            "pid": 4128,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213124.5,
+            "cmdline": ""
+        },
+        {
+            "pid": 4136,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213120.38,
+            "cmdline": ""
+        },
+        {
+            "pid": 4196,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213124.57,
+            "cmdline": ""
+        },
+        {
+            "pid": 4224,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "uptime_seconds": 1421.26,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --video-capture-use-gpu-memory-buffer --no-pre-read-main-dll --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284354636,262144 --variations-seed-version --mojo-platform-channel-handle=6492 /prefetch:14"
+        },
+        {
+            "pid": 4348,
+            "name": "InstallAssistService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213124.34,
+            "cmdline": ""
+        },
+        {
+            "pid": 4364,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1212842.77,
+            "cmdline": ""
+        },
+        {
+            "pid": 4448,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "uptime_seconds": 1213112.65,
+            "cmdline": ""
+        },
+        {
+            "pid": 4500,
+            "name": "spoolsv.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.62,
+            "cmdline": ""
+        },
+        {
+            "pid": 4548,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213124.6,
+            "cmdline": ""
+        },
+        {
+            "pid": 4648,
+            "name": "taskhostw.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "uptime_seconds": 49654.94,
+            "cmdline": "taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}"
+        },
+        {
+            "pid": 4672,
+            "name": "AppleMobileDeviceService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213124.63,
+            "cmdline": ""
+        },
+        {
+            "pid": 4680,
+            "name": "mDNSResponder.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213124.67,
+            "cmdline": ""
+        },
+        {
+            "pid": 4688,
+            "name": "DAX3API.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.7,
+            "cmdline": ""
+        },
+        {
+            "pid": 4696,
+            "name": "WsidService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213124.75,
+            "cmdline": ""
+        },
+        {
+            "pid": 4704,
+            "name": "ensserver.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.78,
+            "cmdline": ""
+        },
+        {
+            "pid": 4712,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.24,
+            "uptime_seconds": 1213124.82,
+            "cmdline": ""
+        },
+        {
+            "pid": 4720,
+            "name": "ElevationService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213124.86,
+            "cmdline": ""
+        },
+        {
+            "pid": 4728,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.29,
+            "uptime_seconds": 1213124.89,
+            "cmdline": ""
+        },
+        {
+            "pid": 4736,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213124.93,
+            "cmdline": ""
+        },
+        {
+            "pid": 4744,
+            "name": "IntelAudioService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.96,
+            "cmdline": ""
+        },
+        {
+            "pid": 4752,
+            "name": "Lenovo.Modern.ImController.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 1213125.0,
+            "cmdline": ""
+        },
+        {
+            "pid": 4768,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213125.03,
+            "cmdline": ""
+        },
+        {
+            "pid": 4776,
+            "name": "jhi_service.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.07,
+            "cmdline": ""
+        },
+        {
+            "pid": 4784,
+            "name": "ipfsvc.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.11,
+            "cmdline": ""
+        },
+        {
+            "pid": 4792,
+            "name": "LenovoUtilityService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213125.15,
+            "cmdline": ""
+        },
+        {
+            "pid": 4808,
+            "name": "OneApp.IGCC.WinService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1213125.18,
+            "cmdline": ""
+        },
+        {
+            "pid": 4824,
+            "name": "LNBITSSvc.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "uptime_seconds": 1213125.22,
+            "cmdline": ""
+        },
+        {
+            "pid": 4852,
+            "name": "LenovoVantageService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.23,
+            "uptime_seconds": 1213125.26,
+            "cmdline": ""
+        },
+        {
+            "pid": 4868,
+            "name": "ElevocControlService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213125.29,
+            "cmdline": ""
+        },
+        {
+            "pid": 4892,
+            "name": "ipf_uf.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.33,
+            "cmdline": ""
+        },
+        {
+            "pid": 5012,
+            "name": "WsNativePushService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.35,
+            "cmdline": ""
+        },
+        {
+            "pid": 5036,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "uptime_seconds": 4419.73,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=47 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1208781503320 --metrics-shmem-handle=8836,i,9920384821739154916,17088275801170380729,2097152 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variati"
+        },
+        {
+            "pid": 5068,
+            "name": "RtkAudUService64.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213125.38,
+            "cmdline": ""
+        },
+        {
+            "pid": 5080,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.42,
+            "cmdline": ""
+        },
+        {
+            "pid": 5100,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 49649.7,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k LocalService -p -s NPSMSvc"
+        },
+        {
+            "pid": 5104,
+            "name": "pg_ctl.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.47,
+            "cmdline": ""
+        },
+        {
+            "pid": 5148,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213125.48,
+            "cmdline": ""
+        },
+        {
+            "pid": 5204,
+            "name": "wslservice.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 1213125.51,
+            "cmdline": ""
+        },
+        {
+            "pid": 5316,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.51,
+            "cmdline": ""
+        },
+        {
+            "pid": 5464,
+            "name": "Sysmon64.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 1213125.53,
+            "cmdline": ""
+        },
+        {
+            "pid": 5876,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 2142.83,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=gpu-process --noerrdialogs --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=Widgets.exe --webview-exe-version=525.15301.20.0 --embedded-browser-webview=1 --no-pre-read-main-dll --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAA"
+        },
+        {
+            "pid": 6048,
+            "name": "ApplicationFrameHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.26,
+            "uptime_seconds": 5188.46,
+            "cmdline": "C:\\Windows\\system32\\ApplicationFrameHost.exe -Embedding"
+        },
+        {
+            "pid": 6256,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1212843.9,
+            "cmdline": ""
+        },
+        {
+            "pid": 6296,
+            "name": "pet.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1556.96,
+            "cmdline": "c:\\Users\\kpuga\\.vscode\\extensions\\ms-python.python-2025.10.1-win32-x64\\python-env-tools\\bin\\pet.exe server"
+        },
+        {
+            "pid": 6448,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.48,
+            "cmdline": ""
+        },
+        {
+            "pid": 6508,
+            "name": "fontdrvhost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 75210.87,
+            "cmdline": ""
+        },
+        {
+            "pid": 6688,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.34,
+            "uptime_seconds": 49267.83,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=19 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1163933865468 --metrics-shmem-handle=7064,i,2510929941518665751,12653850030950070861,2097152 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variati"
+        },
+        {
+            "pid": 6708,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.29,
+            "uptime_seconds": 1640.0,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284354636,262144 --variations-seed-version --mojo-platform-channel-handle=2528 /prefetch:11"
+        },
+        {
+            "pid": 6724,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.25,
+            "uptime_seconds": 49656.29,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup -s WpnUserService"
+        },
+        {
+            "pid": 6756,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 546783.52,
+            "cmdline": ""
+        },
+        {
+            "pid": 6768,
+            "name": "figma_agent.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "uptime_seconds": 49599.0,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\FigmaAgent\\figma_agent.exe"
+        },
+        {
+            "pid": 6820,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 1213118.4,
+            "cmdline": ""
+        },
+        {
+            "pid": 6836,
+            "name": "conhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1557.2,
+            "cmdline": "\\??\\C:\\Windows\\system32\\conhost.exe 0x4"
+        },
+        {
+            "pid": 6876,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 4.12,
+            "uptime_seconds": 1561.81,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vs"
+        },
+        {
+            "pid": 6964,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.67,
+            "uptime_seconds": 49283.6,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=gpu-process --no-pre-read-main-dll --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --metrics-shmem-handle=1704,i,14816748056540641220,9685435558682713041,262144 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variations-seed-version=20250730-050039.823000 --mojo-platform-channel-handle=1904 /prefetch:2"
+        },
+        {
+            "pid": 6992,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "uptime_seconds": 1422.79,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 7252,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.56,
+            "cmdline": ""
+        },
+        {
+            "pid": 7264,
+            "name": "conhost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.6,
+            "cmdline": ""
+        },
+        {
+            "pid": 7428,
+            "name": "unsecapp.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "uptime_seconds": 1213125.61,
+            "cmdline": ""
+        },
+        {
+            "pid": 7520,
+            "name": "vmcompute.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 529033.33,
+            "cmdline": ""
+        },
+        {
+            "pid": 7584,
+            "name": "WmiPrvSE.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 1213125.68,
+            "cmdline": ""
+        },
+        {
+            "pid": 7604,
+            "name": "ollama app.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 49578.64,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Ollama\\ollama app.exe"
+        },
+        {
+            "pid": 7756,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.31,
+            "uptime_seconds": 6299.3,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --extension-process --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=38 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1206902777497 --metrics-shmem-handle=9032,i,2428085282750472476,314595215142616654,2097152 --field-trial-handle=1908,i,15102462527321932656,1234413727830644649"
+        },
+        {
+            "pid": 7860,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213125.69,
+            "cmdline": ""
+        },
+        {
+            "pid": 7996,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.63,
+            "cmdline": ""
+        },
+        {
+            "pid": 8044,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.66,
+            "cmdline": ""
+        },
+        {
+            "pid": 8056,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.69,
+            "cmdline": ""
+        },
+        {
+            "pid": 8156,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1213125.69,
+            "cmdline": ""
+        },
+        {
+            "pid": 8172,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.72,
+            "cmdline": ""
+        },
+        {
+            "pid": 8180,
+            "name": "postgres.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.77,
+            "cmdline": ""
+        },
+        {
+            "pid": 8360,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "uptime_seconds": 1213124.15,
+            "cmdline": ""
+        },
+        {
+            "pid": 8472,
+            "name": "Locator.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.0,
+            "uptime_seconds": 1212745.16,
+            "cmdline": ""
+        },
+        {
+            "pid": 8512,
+            "name": "csrss.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 75211.82,
+            "cmdline": ""
+        },
+        {
+            "pid": 8556,
+            "name": "AggregatorHost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1213124.51,
+            "cmdline": ""
+        },
+        {
+            "pid": 8572,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 249.51,
+            "cmdline": ""
+        },
+        {
+            "pid": 8632,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 49655.78,
+            "cmdline": ""
+        },
+        {
+            "pid": 8704,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213124.38,
+            "cmdline": ""
+        },
+        {
+            "pid": 8716,
+            "name": "LenovoVantage-(GenericMessagingAddin).exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 49171.63,
+            "cmdline": "C:\\Program Files (x86)\\Lenovo\\VantageService\\4.3.50.0\\LenovoVantage-(GenericMessagingAddin).exe GenericMessagingAddin C:\\ProgramData\\Lenovo\\Vantage\\Addins\\\\GenericMessagingAddin\\1.1.0.43\\GenericMessagingAddin.dll GenericMessagingAddin.0cc4b957d8104a06be6d9ab66d98e77d dbb92346-be69-48b1-a3f2-a28cab79a48b 8"
+        },
+        {
+            "pid": 8732,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "uptime_seconds": 1213125.2,
+            "cmdline": ""
+        },
+        {
+            "pid": 9056,
+            "name": "wlanext.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 1213125.02,
+            "cmdline": ""
+        },
+        {
+            "pid": 9096,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.31,
+            "uptime_seconds": 49651.44,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 9128,
+            "name": "Intel_PIE_Service.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213125.0,
+            "cmdline": ""
+        },
+        {
+            "pid": 9276,
+            "name": "WsToastNotification.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 47121.37,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Wondershare\\Wondershare NativePush\\WsToastNotification.exe"
+        },
+        {
+            "pid": 9388,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.34,
+            "uptime_seconds": 49284.54,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --metrics-shmem-handle=2184,i,2255718420120107388,8922597122623667138,524288 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variations-seed-version=20250730-050039.823000 --mojo-platform-channel-handle=2248 /prefetch:11"
+        },
+        {
+            "pid": 9412,
+            "name": "SearchHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.77,
+            "uptime_seconds": 49655.56,
+            "cmdline": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca"
+        },
+        {
+            "pid": 9740,
+            "name": "WindowsTerminal.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.74,
+            "uptime_seconds": 1571.67,
+            "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe -Embedding"
+        },
+        {
+            "pid": 9808,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1070183.27,
+            "cmdline": ""
+        },
+        {
+            "pid": 9852,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1212844.24,
+            "cmdline": ""
+        },
+        {
+            "pid": 9872,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213123.87,
+            "cmdline": ""
+        },
+        {
+            "pid": 9952,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.78,
+            "uptime_seconds": 1469.01,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --pdf-upsell-enabled --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale=en_IN --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=19 --time-ticks-at-unix-epoch=-1752761553234565 --launch-time-ticks=1211733932216 --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284354636,262144 --v"
+        },
+        {
+            "pid": 10008,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "uptime_seconds": 427.51,
+            "cmdline": ""
+        },
+        {
+            "pid": 10080,
+            "name": "ollama.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 49579.35,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Ollama\\ollama.exe serve"
+        },
+        {
+            "pid": 10092,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 2144.56,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=525.15301.20.0 --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView --noerrdialogs --disk-cache-size=52428800 --lang=en-US --mojo-named-platform-channel-pipe=29320.21516.12348672729244712113 /pfhostedapp:8d576a6a25b274f2f86c3e7a69b6aca9d328dc03"
+        },
+        {
+            "pid": 10376,
+            "name": "pythonw.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.6,
+            "uptime_seconds": 1498.52,
+            "cmdline": "C:\\Users\\kpuga\\.codegeex\\mamba\\envs\\codegeex-agent\\pythonw.exe -m codegeex_mcp_tools.terminal"
+        },
+        {
+            "pid": 10472,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 1213122.06,
+            "cmdline": ""
+        },
+        {
+            "pid": 10484,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 772685.34,
+            "cmdline": ""
+        },
+        {
+            "pid": 10528,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1213122.08,
+            "cmdline": ""
+        },
+        {
+            "pid": 11064,
+            "name": "dllhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11,
+            "uptime_seconds": 19094.46,
+            "cmdline": "C:\\Windows\\system32\\DllHost.exe /Processid:{CA6CC9F1-867A-481E-951E-A28C5E4F01EA}"
+        },
+        {
+            "pid": 11072,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213122.44,
+            "cmdline": ""
+        },
+        {
+            "pid": 11188,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.21,
+            "uptime_seconds": 1641.7,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --no-startup-window"
+        },
+        {
+            "pid": 11312,
+            "name": "FileCoAuth.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.22,
+            "uptime_seconds": 25728.81,
+            "cmdline": "C:\\Program Files\\Microsoft OneDrive\\25.127.0701.0006\\FileCoAuth.exe -Embedding"
+        },
+        {
+            "pid": 11580,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 49654.1,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=crashpad-handler --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView /prefetch:4 /pfhostedapp:45bce7a328340805a41549c2167cf874cd60507f --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView\\Crashpad --metrics-dir=C:\\Users\\kpuga\\App"
+        },
+        {
+            "pid": 11644,
+            "name": "FnHotkeyUtility.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.24,
+            "uptime_seconds": 49657.67,
+            "cmdline": "C:\\Windows\\System32\\DriverStore\\FileRepository\\lenovofnandfunctionkeys.inf_amd64_fa50a878363b0cec\\FnHotkeyUtility.exe"
+        },
+        {
+            "pid": 11736,
+            "name": "Lenovo.Modern.ImController.PluginHost.Device.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.22,
+            "uptime_seconds": 49305.91,
+            "cmdline": "-name 896e2057-eb23-47a1-a438-e9b70a6a8d4a -runas -pluginName LenovoDeviceMetricsPlugin -pluginVersion 3.0.2.0"
+        },
+        {
+            "pid": 11760,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1208792.05,
+            "cmdline": ""
+        },
+        {
+            "pid": 11768,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "uptime_seconds": 1212933.36,
+            "cmdline": ""
+        },
+        {
+            "pid": 11948,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 20196.37,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 12244,
+            "name": "conhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1572.46,
+            "cmdline": "\\??\\C:\\Windows\\system32\\conhost.exe 0x4"
+        },
+        {
+            "pid": 12260,
+            "name": "winlogon.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "uptime_seconds": 75212.62,
+            "cmdline": ""
+        },
+        {
+            "pid": 12444,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.19,
+            "uptime_seconds": 49657.96,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup -s CDPUserSvc"
+        },
+        {
+            "pid": 12700,
+            "name": "CrossDeviceResume.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.38,
+            "uptime_seconds": 49657.17,
+            "cmdline": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe /tileid MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CrossDeviceResumeApp"
+        },
+        {
+            "pid": 12724,
+            "name": "CrossDeviceService.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.67,
+            "uptime_seconds": 4413.61,
+            "cmdline": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\\CrossDeviceService.exe"
+        },
+        {
+            "pid": 13212,
+            "name": "StartMenuExperienceHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.83,
+            "uptime_seconds": 49656.13,
+            "cmdline": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca"
+        },
+        {
+            "pid": 13296,
+            "name": "RtkAudUService64.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 49636.82,
+            "cmdline": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_04ff63d068f8c626\\RtkAudUService64.exe -background"
+        },
+        {
+            "pid": 13436,
+            "name": "TextInputHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.51,
+            "uptime_seconds": 49646.21,
+            "cmdline": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca"
+        },
+        {
+            "pid": 13572,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 903663.41,
+            "cmdline": ""
+        },
+        {
+            "pid": 13688,
+            "name": "powershell.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.44,
+            "uptime_seconds": 1557.53,
+            "cmdline": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command try { . \"c:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+        },
+        {
+            "pid": 13692,
+            "name": "WmiApSrv.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1212744.29,
+            "cmdline": ""
+        },
+        {
+            "pid": 13976,
+            "name": "msdtc.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 545158.35,
+            "cmdline": ""
+        },
+        {
+            "pid": 14076,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.2,
+            "uptime_seconds": 139.55,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --pdf-upsell-enabled --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale=en_IN --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=27 --time-ticks-at-unix-epoch=-1752761553234565 --launch-time-ticks=1213063991789 --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284354636,262144 --v"
+        },
+        {
+            "pid": 14220,
+            "name": "WhatsApp.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "stopped",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.82,
+            "uptime_seconds": 49378.3,
+            "cmdline": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\\WhatsApp.exe -ServerName:App.AppXkf4yh0averk473g9chjmra34tgccdh3d.mca"
+        },
+        {
+            "pid": 14276,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.7,
+            "uptime_seconds": 1565.55,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=renderer --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=C:\\Users\\kpuga\\AppData\\Local\\"
+        },
+        {
+            "pid": 14280,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.75,
+            "uptime_seconds": 1613.39,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=renderer --instant-process --pdf-upsell-enabled --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale=en_IN --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1752761553234565 --launch-time-ticks=1211590170816 --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284"
+        },
+        {
+            "pid": 14984,
+            "name": "LenovoVantage-(VantageCoreAddin).exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 1213109.68,
+            "cmdline": ""
+        },
+        {
+            "pid": 15008,
+            "name": "Copilot.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.89,
+            "uptime_seconds": 49597.1,
+            "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25064.139.0_x64__8wekyb3d8bbwe\\Copilot.exe"
+        },
+        {
+            "pid": 15276,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 4412.26,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 15372,
+            "name": "unsecapp.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 49657.81,
+            "cmdline": "C:\\Windows\\system32\\wbem\\unsecapp.exe -Embedding"
+        },
+        {
+            "pid": 15416,
+            "name": "backgroundTaskHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "stopped",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 20196.86,
+            "cmdline": "C:\\Windows\\system32\\backgroundTaskHost.exe -ServerName:App.AppX4325622ft6437f3xfywcfxgbedfvpn0x.mca"
+        },
+        {
+            "pid": 15768,
+            "name": "WSHelper.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "uptime_seconds": 49580.01,
+            "cmdline": "C:\\Program Files (x86)\\Common Files\\Wondershare\\Wondershare Helper Compact\\WSHelper.exe"
+        },
+        {
+            "pid": 15796,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "uptime_seconds": 49654.0,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26100.4652) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26100 IsWebView2/True (WebView2Version 138.0.3351.109) --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Package"
+        },
+        {
+            "pid": 16500,
+            "name": "SearchIndexer.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.23,
+            "uptime_seconds": 465620.91,
+            "cmdline": ""
+        },
+        {
+            "pid": 16876,
+            "name": "UDClientService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "uptime_seconds": 996829.32,
+            "cmdline": ""
+        },
+        {
+            "pid": 17072,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 2145.02,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=Widgets.exe --webview-exe-version=525.15301.20.0 --embedded-browser-webview=1 --no-pre-read-main-dll --always-read-main-dll --field-trial-handle"
+        },
+        {
+            "pid": 17144,
+            "name": "WidgetService.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "uptime_seconds": 49655.69,
+            "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe -RegisterProcessAsComServer -Embedding"
+        },
+        {
+            "pid": 17600,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 4.3,
+            "uptime_seconds": 1552.38,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe c:\\Users\\kpuga\\.vscode\\extensions\\ms-python.vscode-pylance-2025.7.1\\dist\\server.bundle.js --cancellationReceive=file:d19236794242f9007b747a716b0ba7fb8f87d4b5ff --node-ipc --clientProcessId=6876"
+        },
+        {
+            "pid": 17780,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 1213004.38,
+            "cmdline": ""
+        },
+        {
+            "pid": 17968,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1213005.34,
+            "cmdline": ""
+        },
+        {
+            "pid": 18056,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 1212845.27,
+            "cmdline": ""
+        },
+        {
+            "pid": 18064,
+            "name": "LockApp.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "stopped",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.5,
+            "uptime_seconds": 49652.94,
+            "cmdline": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca"
+        },
+        {
+            "pid": 18068,
+            "name": "PhoneExperienceHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.96,
+            "uptime_seconds": 49643.4,
+            "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe -ComServer:Background -Embedding"
+        },
+        {
+            "pid": 18200,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 1213004.37,
+            "cmdline": ""
+        },
+        {
+            "pid": 18304,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.71,
+            "uptime_seconds": 1563.79,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-sc"
+        },
+        {
+            "pid": 18436,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.86,
+            "uptime_seconds": 1566.68,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe ."
+        },
+        {
+            "pid": 18452,
+            "name": "QuickShareService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 774028.62,
+            "cmdline": ""
+        },
+        {
+            "pid": 18496,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.31,
+            "uptime_seconds": 1566.28,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file"
+        },
+        {
+            "pid": 18744,
+            "name": "FnHotkeyCapsLKNumLK.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 49658.63,
+            "cmdline": "C:\\Windows\\System32\\DriverStore\\FileRepository\\lenovofnandfunctionkeys.inf_amd64_fa50a878363b0cec\\FnHotkeyCapsLKNumLK.exe"
+        },
+        {
+            "pid": 19152,
+            "name": "unsecapp.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 7449.43,
+            "cmdline": "C:\\Windows\\system32\\wbem\\unsecapp.exe -Embedding"
+        },
+        {
+            "pid": 19388,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.38,
+            "uptime_seconds": 49270.06,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=20 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1163933985392 --metrics-shmem-handle=6632,i,17572513693280412108,4752922704856350305,2097152 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variati"
+        },
+        {
+            "pid": 19700,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.31,
+            "uptime_seconds": 49656.49,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 19760,
+            "name": "Microsoft.SharePoint.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "uptime_seconds": 287204.16,
+            "cmdline": ""
+        },
+        {
+            "pid": 19836,
+            "name": "ipf_helper.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 49658.91,
+            "cmdline": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_392cd02685ab99ce\\ipf_helper.exe"
+        },
+        {
+            "pid": 19872,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 49286.26,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=crashpad-handler --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Google\\Chrome\\User Data /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\kpuga\\AppData\\Local\\Google\\Chrome\\User Data\\Crashpad --metrics-dir=C:\\Users\\kpuga\\AppData\\Local\\Google\\Chrome\\User Data --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=138.0.7204.169 --ini"
+        },
+        {
+            "pid": 19896,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.4,
+            "uptime_seconds": 49656.66,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 19916,
+            "name": "msedge.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "uptime_seconds": 1642.36,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --always-read-main-dll --field-trial-handle=2344,i,16343637533803073934,10568805841284354636,262144 --variations-seed-version --mojo-platform-channel-handle=2320 /prefetch:13"
+        },
+        {
+            "pid": 20016,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.95,
+            "uptime_seconds": 1566.46,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=gpu-process --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1736,i,15862807784493254108,16450735265180557781,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=Calcu"
+        },
+        {
+            "pid": 20552,
+            "name": "pythonw.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.6,
+            "uptime_seconds": 1499.69,
+            "cmdline": "C:\\Users\\kpuga\\.codegeex\\mamba\\envs\\codegeex-agent\\pythonw.exe -m codegeex_mcp_tools.backend"
+        },
+        {
+            "pid": 20592,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.25,
+            "uptime_seconds": 49464.1,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 20708,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.86,
+            "uptime_seconds": 1547.48,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe c:\\Users\\kpuga\\.vscode\\extensions\\visualstudioexptteam.intellicode-api-usage-examples-0.2.9\\dist\\server\\server.js --node-ipc --clientProcessId=6876"
+        },
+        {
+            "pid": 21148,
+            "name": "OpenConsole.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.09,
+            "uptime_seconds": 1573.28,
+            "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\\OpenConsole.exe -Embedding"
+        },
+        {
+            "pid": 21640,
+            "name": "EaseUSStartHelper.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 17863.97,
+            "cmdline": "EaseUSStartHelper.exe"
+        },
+        {
+            "pid": 21704,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.13,
+            "uptime_seconds": 47728.88,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 21968,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "uptime_seconds": 49285.92,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --metrics-shmem-handle=2336,i,3228598037475757230,16028554799239828044,524288 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variations-seed-version=20250730-050039.823000 --mojo-platform-channel-handle=2344 /prefetch:13"
+        },
+        {
+            "pid": 22672,
+            "name": "AutoModeDetect.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 49659.17,
+            "cmdline": "C:\\Windows\\system32\\AutoModeDetect.exe"
+        },
+        {
+            "pid": 22932,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.65,
+            "uptime_seconds": 49655.25,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --embedded-browser-webview=1 --webview-exe-name=SearchHost.exe --webview-exe-version=2125.14803.30.0 --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView --noerrdialogs --disable-features=msSmartScreenProtection --edge-webview-enable-mojo-ipcz --enable-features=msEdgeFluentOverlayScrollbar --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;"
+        },
+        {
+            "pid": 22988,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.75,
+            "uptime_seconds": 1559.13,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-sc"
+        },
+        {
+            "pid": 23000,
+            "name": "backgroundTaskHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 7148.51,
+            "cmdline": "C:\\Windows\\system32\\backgroundTaskHost.exe -ServerName:App.AppX21scdfkavv3n5qjke49d7zqn0x9dj5nq.mca"
+        },
+        {
+            "pid": 23168,
+            "name": "pythonw.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.64,
+            "uptime_seconds": 1502.79,
+            "cmdline": "C:\\Users\\kpuga\\.codegeex\\mamba\\envs\\codegeex-agent\\pythonw.exe CodeGeeXAgent.py --port 30614 --python_cmd C:\\Users\\kpuga\\.codegeex\\mamba\\envs\\codegeex-agent\\pythonw.exe"
+        },
+        {
+            "pid": 23400,
+            "name": "taskhostw.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.16,
+            "uptime_seconds": 49658.48,
+            "cmdline": "taskhostw.exe"
+        },
+        {
+            "pid": 23676,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 611384.42,
+            "cmdline": ""
+        },
+        {
+            "pid": 23896,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 49658.89,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc"
+        },
+        {
+            "pid": 23920,
+            "name": "SystemSettingsBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 19095.47,
+            "cmdline": "C:\\Windows\\System32\\SystemSettingsBroker.exe -Embedding"
+        },
+        {
+            "pid": 23976,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.17,
+            "uptime_seconds": 49657.66,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc"
+        },
+        {
+            "pid": 23988,
+            "name": "UserOOBEBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 49656.07,
+            "cmdline": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe -Embedding"
+        },
+        {
+            "pid": 24152,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 1040716.23,
+            "cmdline": ""
+        },
+        {
+            "pid": 24184,
+            "name": "ShellHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.29,
+            "uptime_seconds": 49658.38,
+            "cmdline": "C:\\Windows\\System32\\ShellHost.exe"
+        },
+        {
+            "pid": 24196,
+            "name": "SecurityHealthSystray.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 49638.27,
+            "cmdline": "C:\\Windows\\System32\\SecurityHealthSystray.exe"
+        },
+        {
+            "pid": 24304,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.24,
+            "uptime_seconds": 49654.83,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26100.4652) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26100 IsWebView2/True (WebView2Version 138.0.3351.109) --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\M"
+        },
+        {
+            "pid": 24412,
+            "name": "conhost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 996766.0,
+            "cmdline": ""
+        },
+        {
+            "pid": 24884,
+            "name": "sihost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.33,
+            "uptime_seconds": 49659.09,
+            "cmdline": "sihost.exe"
+        },
+        {
+            "pid": 24924,
+            "name": "smartscreen.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.08,
+            "uptime_seconds": 139.42,
+            "cmdline": "C:\\Windows\\System32\\smartscreen.exe -Embedding"
+        },
+        {
+            "pid": 25060,
+            "name": "SpacePop.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.44,
+            "uptime_seconds": 17864.33,
+            "cmdline": "SpacePop.exe"
+        },
+        {
+            "pid": 25108,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.4,
+            "uptime_seconds": 4423.2,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --extension-process --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=46 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1208781274887 --metrics-shmem-handle=7420,i,16139317216644763516,9340869696408458076,2097152 --field-trial-handle=1908,i,15102462527321932656,12344137278306446"
+        },
+        {
+            "pid": 25172,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.2,
+            "uptime_seconds": 1566.9,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=crashpad-handler --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\kpuga\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=b80bdbe8-9f8c-4136-a81f-435f4c0ff905&iid=b80bdbe8-9f8c-4136-a81f-435f4c0ff905&sid=b80bdbe8-9f8c-4136-a81f-435f4c0ff905 --annotation=_companyName=Microsoft --a"
+        },
+        {
+            "pid": 25176,
+            "name": "conhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 49659.42,
+            "cmdline": "\\??\\C:\\Windows\\system32\\conhost.exe 0x4"
+        },
+        {
+            "pid": 25248,
+            "name": "ShellExperienceHost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "stopped",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.71,
+            "uptime_seconds": 49464.66,
+            "cmdline": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca"
+        },
+        {
+            "pid": 25480,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.35,
+            "uptime_seconds": 49272.48,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=renderer --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1752761553234563 --launch-time-ticks=1163932026150 --metrics-shmem-handle=5236,i,5061468484697209044,326831992433370506,2097152 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variation"
+        },
+        {
+            "pid": 25576,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 262141.14,
+            "cmdline": ""
+        },
+        {
+            "pid": 25720,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.03,
+            "uptime_seconds": 2145.67,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=renderer --noerrdialogs --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=Widgets.exe --webview-exe-version=525.15301.20.0 --embedded-browser-webview=1 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-act"
+        },
+        {
+            "pid": 25952,
+            "name": "cmd.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 1573.72,
+            "cmdline": "C:\\Windows\\System32\\cmd.exe"
+        },
+        {
+            "pid": 26040,
+            "name": "pythonw.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.6,
+            "uptime_seconds": 1500.11,
+            "cmdline": "C:\\Users\\kpuga\\.codegeex\\mamba\\envs\\codegeex-agent\\pythonw.exe -m codegeex_mcp_tools.frontend"
+        },
+        {
+            "pid": 26048,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.61,
+            "uptime_seconds": 1553.25,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe c:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\json-language-features\\server\\dist\\node\\jsonServerMain --node-ipc --clientProcessId=6876"
+        },
+        {
+            "pid": 26128,
+            "name": "OneDrive.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.81,
+            "uptime_seconds": 49622.95,
+            "cmdline": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe /background"
+        },
+        {
+            "pid": 26144,
+            "name": "MsMpEng.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.9,
+            "uptime_seconds": 555744.13,
+            "cmdline": ""
+        },
+        {
+            "pid": 26240,
+            "name": "conhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 47123.19,
+            "cmdline": "\\??\\C:\\Windows\\system32\\conhost.exe 0x4"
+        },
+        {
+            "pid": 26312,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.18,
+            "uptime_seconds": 49539.19,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup"
+        },
+        {
+            "pid": 26368,
+            "name": "Code.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.64,
+            "uptime_seconds": 1564.54,
+            "cmdline": "C:\\Users\\kpuga\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=C:\\Users\\kpuga\\AppData\\Roaming\\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-sc"
+        },
+        {
+            "pid": 26420,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 1061.81,
+            "cmdline": ""
+        },
+        {
+            "pid": 26456,
+            "name": "conhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06,
+            "uptime_seconds": 49581.05,
+            "cmdline": "\\??\\C:\\Windows\\system32\\conhost.exe 0x4"
+        },
+        {
+            "pid": 26620,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02,
+            "uptime_seconds": 985815.08,
+            "cmdline": ""
+        },
+        {
+            "pid": 26848,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 1.11,
+            "uptime_seconds": 49287.08,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+        },
+        {
+            "pid": 27264,
+            "name": "dwm.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.68,
+            "uptime_seconds": 75213.96,
+            "cmdline": ""
+        },
+        {
+            "pid": 27380,
+            "name": "MpDefenderCoreService.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1,
+            "uptime_seconds": 555748.3,
+            "cmdline": ""
+        },
+        {
+            "pid": 27436,
+            "name": "RuntimeBroker.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 7149.0,
+            "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+        },
+        {
+            "pid": 27728,
+            "name": "chrome.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "uptime_seconds": 49266.15,
+            "cmdline": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --no-pre-read-main-dll --metrics-shmem-handle=7844,i,17315047513662987817,16462661548566792267,524288 --field-trial-handle=1908,i,15102462527321932656,12344137278306446494,262144 --variations-seed-version=20250730-050039.823000 --mojo-platform-channel-handle=7764 /prefetch:12"
+        },
+        {
+            "pid": 28052,
+            "name": "python.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.12,
+            "uptime_seconds": 8.95,
+            "cmdline": "python -m RedOpsSuite.modules.endpointagent"
+        },
+        {
+            "pid": 28092,
+            "name": "Microsoft.SharePoint.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04,
+            "uptime_seconds": 21749.81,
+            "cmdline": "/silentConfig"
+        },
+        {
+            "pid": 28476,
+            "name": "svchost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.14,
+            "uptime_seconds": 49657.39,
+            "cmdline": "C:\\Windows\\system32\\svchost.exe -k UdkSvcGroup -s UdkUserSvc"
+        },
+        {
+            "pid": 29240,
+            "name": "explorer.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 2.05,
+            "uptime_seconds": 49658.93,
+            "cmdline": "C:\\Windows\\Explorer.EXE"
+        },
+        {
+            "pid": 29320,
+            "name": "Widgets.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.41,
+            "uptime_seconds": 49657.43,
+            "cmdline": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.15301.20.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe -ServerName:Microsoft.Windows.DashboardServer"
+        },
+        {
+            "pid": 29492,
+            "name": "dllhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07,
+            "uptime_seconds": 19096.15,
+            "cmdline": "C:\\Windows\\SysWOW64\\DllHost.exe /Processid:{8AB635F8-9A67-4698-AB99-784AD929F3B4}"
+        },
+        {
+            "pid": 29680,
+            "name": "svchost.exe",
+            "username": null,
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 125894.54,
+            "cmdline": ""
+        },
+        {
+            "pid": 29920,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.5,
+            "uptime_seconds": 49655.13,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=renderer --noerrdialogs --user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26100.4652) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26100 IsWebView2/True (WebView2Version 138.0.3351.109) --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=SearchH"
+        },
+        {
+            "pid": 30264,
+            "name": "ctfmon.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.25,
+            "uptime_seconds": 49654.29,
+            "cmdline": "/QuitInfo:00000000000003A0;0000000000000250;"
+        },
+        {
+            "pid": 30332,
+            "name": "WindowsPackageManagerServer.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.19,
+            "uptime_seconds": 23543.05,
+            "cmdline": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.26.430.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe -Embedding"
+        },
+        {
+            "pid": 30356,
+            "name": "msedgewebview2.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01,
+            "uptime_seconds": 2146.22,
+            "cmdline": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.109\\msedgewebview2.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=C:\\Users\\kpuga\\AppData\\Local\\Packages\\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\\LocalState\\EBWebView --webview-exe-name=Widgets.exe --webview-exe-version=525.15301.20.0 --embedded-browser-webview=1 --no-pre-read-main-dll --always-read-main-dll --field-trial-han"
+        },
+        {
+            "pid": 30648,
+            "name": "conhost.exe",
+            "username": "LAPTOP-0DA8F8C4\\kpuga",
+            "status": "running",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05,
+            "uptime_seconds": 1559.2,
+            "cmdline": "\\\\?\\C:\\Windows\\system32\\conhost.exe --headless --width 80 --height 30 --signal 0x3d4 --server 0x3c8"
+        }
+    ],
+    "network_connections": [
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:49165",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30876",
+            "raddr": "13.107.246.58:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:49686",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::69dd:f4d6:5972:7616:2177",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:44960",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::8ea3:b363:5c0:89bf:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:44950",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.1.5:63822",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30658",
+            "raddr": "52.187.79.109:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::65081",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:20271",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "172.24.16.1:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:445",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::49665",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:49670",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:29354",
+            "raddr": "4.213.25.242:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49679",
+            "raddr": "127.0.0.1:5354",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::69dd:f4d6:5972:7616:63818",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.1.5:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "127.0.0.1:50395",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:123",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::49165",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:29366",
+            "raddr": "23.60.169.10:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:11434",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30875",
+            "raddr": "13.107.246.58:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:49426",
+            "raddr": "4.213.25.242:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30878",
+            "raddr": "8.222.147.122:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30638",
+            "raddr": "127.0.0.1:30637",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::49670",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:49669",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.1.5:137",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30633",
+            "raddr": "127.0.0.1:30634",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30696",
+            "raddr": "57.144.211.32:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30449",
+            "raddr": "52.98.87.242:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.56.1:137",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:29353",
+            "raddr": "142.251.12.188:5228",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49702",
+            "raddr": "127.0.0.1:49701",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::445",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::3184",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30634",
+            "raddr": "127.0.0.1:30633",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30694",
+            "raddr": "157.240.23.53:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30698",
+            "raddr": "57.144.209.32:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.1.5:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::135",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::49664",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::8ea3:b363:5c0:89bf:63817",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:5355",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "172.24.16.1:137",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::123",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::69dd:f4d6:5972:7616:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::49669",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:56662",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:139",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30863",
+            "raddr": "127.0.0.1:8501",
+            "status": "TIME_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30804",
+            "raddr": "47.246.173.67:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.56.1:139",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:49666",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "172.24.16.1:138",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:12345",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:27015",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::60dc:36af:a071:e553:2177",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30624",
+            "raddr": "127.0.0.1:30623",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:5432",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30614",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:5354",
+            "raddr": "127.0.0.1:49679",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::38531",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "::1:63819",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30702",
+            "raddr": "57.144.215.32:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::49666",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::60dc:36af:a071:e553:63820",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:49664",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:29367",
+            "raddr": "23.223.47.115:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49685",
+            "raddr": "127.0.0.1:49684",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": "::1:42050",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": "::1:42050",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:135",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:50213",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:38531",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49683",
+            "raddr": "127.0.0.1:49682",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::59592",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30695",
+            "raddr": "117.236.236.164:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30637",
+            "raddr": "127.0.0.1:30638",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30827",
+            "raddr": "20.189.173.16:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:53",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::5355",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49684",
+            "raddr": "127.0.0.1:49685",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.56.1:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "127.0.0.1:63823",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "172.24.16.1:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49701",
+            "raddr": "127.0.0.1:49702",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.56.1:138",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "::1:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:5354",
+            "raddr": "127.0.0.1:49671",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:65079",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.1.5:2177",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "127.0.0.1:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": "::1:49672",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "::1:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.56.1:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "127.0.0.1:56125",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "172.24.16.1:63824",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30635",
+            "raddr": "127.0.0.1:30636",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:53959",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::8ea3:b363:5c0:89bf:2177",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30699",
+            "raddr": "157.240.7.54:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::50214",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": ":::5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30636",
+            "raddr": "127.0.0.1:30635",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30701",
+            "raddr": "157.240.192.52:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:49665",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_DGRAM",
+            "laddr": "fe80::60dc:36af:a071:e553:1900",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "172.24.16.1:2177",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:3184",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.56.1:63821",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.1.5:138",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:5050",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30623",
+            "raddr": "127.0.0.1:30624",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:30864",
+            "raddr": "127.0.0.1:30865",
+            "status": "TIME_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "127.0.0.1:50216",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:8090",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "0.0.0.0:5040",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::49686",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "127.0.0.1:50215",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "192.168.56.1:2177",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:65080",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": ":::5432",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:5354",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30697",
+            "raddr": "57.144.213.32:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49671",
+            "raddr": "127.0.0.1:5354",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "127.0.0.1:49682",
+            "raddr": "127.0.0.1:49683",
+            "status": "ESTABLISHED"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "172.24.16.1:139",
+            "raddr": null,
+            "status": "LISTEN"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:5353",
+            "raddr": null,
+            "status": "NONE"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET6",
+            "type": "SOCK_STREAM",
+            "laddr": "::1:8501",
+            "raddr": "::1:30867",
+            "status": "TIME_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_STREAM",
+            "laddr": "192.168.1.5:30700",
+            "raddr": "57.144.213.32:443",
+            "status": "CLOSE_WAIT"
+        },
+        {
+            "fd": -1,
+            "family": "AF_INET",
+            "type": "SOCK_DGRAM",
+            "laddr": "0.0.0.0:59592",
+            "raddr": null,
+            "status": "NONE"
+        }
+    ],
+    "network_interfaces": [
+        {
+            "name": "Ethernet 2",
+            "addresses": [
+                {
+                    "family": "AF_LINK",
+                    "address": "0A-00-27-00-00-04",
+                    "netmask": null,
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET",
+                    "address": "192.168.56.1",
+                    "netmask": "255.255.255.0",
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET6",
+                    "address": "fe80::8ea3:b363:5c0:89bf",
+                    "netmask": null,
+                    "broadcast": null
+                }
+            ],
+            "stats": {
+                "isup": true,
+                "duplex": "NIC_DUPLEX_FULL",
+                "speed": 1000,
+                "mtu": 1500
+            }
+        },
+        {
+            "name": "Local Area Connection* 1",
+            "addresses": [
+                {
+                    "family": "AF_LINK",
+                    "address": "68-34-21-79-6D-BF",
+                    "netmask": null,
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET",
+                    "address": "169.254.224.241",
+                    "netmask": "255.255.0.0",
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET6",
+                    "address": "fe80::818b:9d95:4fb7:e3b7",
+                    "netmask": null,
+                    "broadcast": null
+                }
+            ],
+            "stats": {
+                "isup": false,
+                "duplex": "NIC_DUPLEX_FULL",
+                "speed": 0,
+                "mtu": 1500
+            }
+        },
+        {
+            "name": "Local Area Connection* 2",
+            "addresses": [
+                {
+                    "family": "AF_LINK",
+                    "address": "6A-34-21-79-6D-BE",
+                    "netmask": null,
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET",
+                    "address": "169.254.55.184",
+                    "netmask": "255.255.0.0",
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET6",
+                    "address": "fe80::571f:83a4:432e:ae8e",
+                    "netmask": null,
+                    "broadcast": null
+                }
+            ],
+            "stats": {
+                "isup": false,
+                "duplex": "NIC_DUPLEX_FULL",
+                "speed": 0,
+                "mtu": 1500
+            }
+        },
+        {
+            "name": "Wi-Fi",
+            "addresses": [
+                {
+                    "family": "AF_LINK",
+                    "address": "68-34-21-79-6D-BE",
+                    "netmask": null,
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET",
+                    "address": "192.168.1.5",
+                    "netmask": "255.255.255.0",
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET6",
+                    "address": "fe80::69dd:f4d6:5972:7616",
+                    "netmask": null,
+                    "broadcast": null
+                }
+            ],
+            "stats": {
+                "isup": true,
+                "duplex": "NIC_DUPLEX_FULL",
+                "speed": 300,
+                "mtu": 1500
+            }
+        },
+        {
+            "name": "vEthernet (WSL (Hyper-V firewall))",
+            "addresses": [
+                {
+                    "family": "AF_LINK",
+                    "address": "00-15-5D-E6-3F-AA",
+                    "netmask": null,
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET",
+                    "address": "172.24.16.1",
+                    "netmask": "255.255.240.0",
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET6",
+                    "address": "fe80::60dc:36af:a071:e553",
+                    "netmask": null,
+                    "broadcast": null
+                }
+            ],
+            "stats": {
+                "isup": true,
+                "duplex": "NIC_DUPLEX_FULL",
+                "speed": 4294,
+                "mtu": 1500
+            }
+        },
+        {
+            "name": "Loopback Pseudo-Interface 1",
+            "addresses": [
+                {
+                    "family": "AF_INET",
+                    "address": "127.0.0.1",
+                    "netmask": "255.0.0.0",
+                    "broadcast": null
+                },
+                {
+                    "family": "AF_INET6",
+                    "address": "::1",
+                    "netmask": null,
+                    "broadcast": null
+                }
+            ],
+            "stats": {
+                "isup": true,
+                "duplex": "NIC_DUPLEX_FULL",
+                "speed": 1073,
+                "mtu": 1500
+            }
+        }
+    ],
+    "logged_in_users": [
+        {
+            "name": "kpuga",
+            "terminal": null,
+            "host": null,
+            "started": "2025-07-30T23:49:07.187633Z"
+        }
+    ]
+}
