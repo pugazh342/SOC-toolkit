@@ -26,7 +26,7 @@ class EndpointAgent:
     Gathers system, process, network, and user information using psutil.
     """
 
-    def __init__(self, default_timeout=10,max_workers=10,delay=0.1,user_agent=None,config=None):
+    def __init__(self,output_path="RedOpsSuite/reporting/endpoint_output.json",default_timeout=10,max_workers=10,delay=0.1,user_agent=None,config=None):
         """
         Initializes the EndpointAgent.
 
@@ -374,6 +374,7 @@ if __name__ == '__main__':
 
     print("-" * 30)
     print("EndpointAgent demo completed.")
+
 
 
 
