@@ -341,10 +341,7 @@ class EndpointAgent:
         except Exception as e:
             logger.error(f"EndpointAgent: Error listing saved telemetry files in {self.output_dir}: {e}")
             return []
-    @property
-      def output_path(self):
-        """Backward compatibility: maps output_path -> output_dir"""
-          return self.output_dir
+    
 
 
 # Example usage (if run directly)
@@ -376,4 +373,5 @@ if __name__ == '__main__':
 
     print("-" * 30)
     print("EndpointAgent demo completed.")
+
 
