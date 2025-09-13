@@ -122,7 +122,6 @@ try:
     # Import the RedOpsSuite tab controller if available
     if REDOPS_AVAILABLE:
         from webgui.tabs_controller_redops import render_tabs_redops
-        from RedOpsSuite.modules.endpointagent import EndpointAgent
     else:
         render_tabs_redops = None # Define as None if not available
 except ImportError as e:
@@ -185,4 +184,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
