@@ -4,6 +4,12 @@ import os
 import sys
 import logging
 
+try:
+    from RedOpsSuite.modules.endpointagent import EndpointAgent
+    print("✅ EndpointAgent imported successfully")
+except Exception as e:
+    print("❌ Import failed:", e)
+
 # --- App Configuration ---
 st.set_page_config(
     page_title="BlueDefenderX/RedOpsSuite - Unified SOC/Red Team Toolkit",
@@ -184,5 +190,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
