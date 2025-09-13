@@ -8157,3 +8157,155 @@ NameError: name 'logging' is not defined
 2025-09-03 13:38:38,244 - BlueDefenderX - INFO - Initialized and stored ExploitX in session state as 'exploit_launcher_tool'.
 2025-09-03 13:38:38,263 - BlueDefenderX - INFO - Initialized and stored PayloadForge in session state as 'payload_forge_tool'.
 2025-09-03 13:38:38,279 - BlueDefenderX - INFO - Initialized and stored EndpointAgent in session state as 'endpoint_agent'.
+2025-09-03 20:06:46,406 - BlueDefenderX - INFO - LogDefenderX initialized.
+2025-09-03 20:06:46,407 - BlueDefenderX - INFO - Initialized and stored LogDefenderX in session state as 'log_defender'.
+2025-09-03 20:06:46,870 - BlueDefenderX - INFO - Loaded 2 rules from config/rules.yaml
+2025-09-03 20:06:46,870 - BlueDefenderX - INFO - SIEMLite initialized.
+2025-09-03 20:06:46,871 - BlueDefenderX - INFO - Initialized and stored SIEMLite in session state as 'siem_engine'.
+2025-09-03 20:06:49,736 - BlueDefenderX - INFO - Loaded 1 enabled threat feeds from config/feedsources.json
+2025-09-03 20:06:49,737 - BlueDefenderX - INFO - ThreatFeedSync initialized.
+2025-09-03 20:06:49,738 - BlueDefenderX - INFO - Initialized and stored ThreatFeedSync in session state as 'threat_intel_engine'.
+2025-09-03 20:07:21,338 - BlueDefenderX - INFO - AnomalyDetector initialized with method=isolation_forest, contamination=0.1, zscore_threshold=3.0
+2025-09-03 20:07:21,342 - BlueDefenderX - INFO - Initialized and stored AnomalyDetector in session state as 'anomaly_detector'.
+2025-09-03 20:07:24,725 - BlueDefenderX - INFO - Initialized and stored Dashboard in session state as 'dashboard_viewer'.
+2025-09-03 20:07:24,764 - BlueDefenderX - INFO - Loaded 3 MITRE mappings from config/mitre_mappings.yaml
+2025-09-03 20:07:24,766 - BlueDefenderX - INFO - MITREMapper initialized.
+2025-09-03 20:07:24,767 - BlueDefenderX - INFO - Initialized and stored MITREMapper in session state as 'mitre_mapper'.
+2025-09-03 20:07:24,803 - BlueDefenderX - INFO - Loaded 2 response playbooks from config/playbooks.yaml
+2025-09-03 20:07:24,804 - BlueDefenderX - INFO - IncidentRespondr initialized.
+2025-09-03 20:07:24,805 - BlueDefenderX - INFO - Initialized and stored IncidentRespondr in session state as 'incident_responder'.
+2025-09-03 20:07:24,822 - BlueDefenderX - INFO - TrustController initialized.
+2025-09-03 20:07:24,823 - BlueDefenderX - INFO - Initialized and stored TrustController in session state as 'trust_controller'.
+2025-09-03 20:07:24,841 - BlueDefenderX - INFO - UBAMonitor initialized.
+2025-09-03 20:07:24,843 - BlueDefenderX - INFO - Initialized and stored UBAMonitor in session state as 'uba_monitor'.
+2025-09-03 20:07:24,885 - BlueDefenderX - INFO - Loaded compliance baselines. Total enabled checks: 5
+2025-09-03 20:07:24,885 - BlueDefenderX - INFO - PolicyWatcher initialized.
+2025-09-03 20:07:24,887 - BlueDefenderX - INFO - Initialized and stored PolicyWatcher in session state as 'policy_watcher'.
+2025-09-03 20:07:24,903 - BlueDefenderX - INFO - HoneyPotX initialized. Config: Host=0.0.0.0, Port=2222, Service=generic_tcp
+2025-09-03 20:07:24,905 - BlueDefenderX - INFO - Initialized and stored HoneyPotX in session state as 'honeypot_manager'.
+2025-09-03 20:07:24,922 - BlueDefenderX - INFO - PurpleTest framework initialized.
+2025-09-03 20:07:24,923 - BlueDefenderX - INFO - Initialized and stored PurpleTest in session state as 'purple_tester'.
+2025-09-03 20:07:24,924 - BlueDefenderX - INFO - Initialized and stored ReconX in session state as 'recon_tool'.
+2025-09-03 20:07:24,944 - BlueDefenderX - INFO - Initialized and stored Injector in session state as 'injector_tool'.
+2025-09-03 20:07:24,963 - BlueDefenderX - INFO - Initialized and stored Bypasser in session state as 'bypasser_tool'.
+2025-09-03 20:07:24,989 - BlueDefenderX - INFO - Initialized and stored PathCrawler in session state as 'crawler_tool'.
+2025-09-03 20:07:25,010 - BlueDefenderX - INFO - Initialized and stored CookieSnatcher in session state as 'cookie_snatcher_tool'.
+2025-09-03 20:07:25,031 - BlueDefenderX - INFO - Initialized and stored Obfuscator in session state as 'obfuscator_tool'.
+2025-09-03 20:07:25,051 - BlueDefenderX - INFO - Initialized and stored SSRFHunter in session state as 'ssrf_hunter_tool'.
+2025-09-03 20:07:25,103 - BlueDefenderX - INFO - Initialized and stored ExploitX in session state as 'exploit_launcher_tool'.
+2025-09-03 20:07:25,125 - BlueDefenderX - INFO - Initialized and stored PayloadForge in session state as 'payload_forge_tool'.
+2025-09-03 20:07:25,148 - BlueDefenderX - INFO - Initialized and stored EndpointAgent in session state as 'endpoint_agent'.
+2025-09-12 15:44:28,217 - BlueDefenderX - INFO - LogDefenderX initialized.
+2025-09-12 15:44:28,217 - BlueDefenderX - INFO - Initialized and stored LogDefenderX in session state as 'log_defender'.
+2025-09-12 15:44:28,825 - BlueDefenderX - INFO - Loaded 2 rules from config/rules.yaml
+2025-09-12 15:44:28,825 - BlueDefenderX - INFO - SIEMLite initialized.
+2025-09-12 15:44:28,825 - BlueDefenderX - INFO - Initialized and stored SIEMLite in session state as 'siem_engine'.
+2025-09-12 15:44:33,201 - BlueDefenderX - INFO - Loaded 1 enabled threat feeds from config/feedsources.json
+2025-09-12 15:44:33,201 - BlueDefenderX - INFO - ThreatFeedSync initialized.
+2025-09-12 15:44:33,201 - BlueDefenderX - INFO - Initialized and stored ThreatFeedSync in session state as 'threat_intel_engine'.
+2025-09-12 15:44:54,647 - BlueDefenderX - INFO - LogDefenderX initialized.
+2025-09-12 15:44:54,650 - BlueDefenderX - INFO - Initialized and stored LogDefenderX in session state as 'log_defender'.
+2025-09-12 15:44:54,655 - BlueDefenderX - INFO - Loaded 2 rules from config/rules.yaml
+2025-09-12 15:44:54,655 - BlueDefenderX - INFO - SIEMLite initialized.
+2025-09-12 15:44:54,663 - BlueDefenderX - INFO - Initialized and stored SIEMLite in session state as 'siem_engine'.
+2025-09-12 15:44:54,663 - BlueDefenderX - INFO - Loaded 1 enabled threat feeds from config/feedsources.json
+2025-09-12 15:44:54,667 - BlueDefenderX - INFO - ThreatFeedSync initialized.
+2025-09-12 15:44:54,668 - BlueDefenderX - INFO - Initialized and stored ThreatFeedSync in session state as 'threat_intel_engine'.
+2025-09-12 15:45:11,275 - BlueDefenderX - INFO - AnomalyDetector initialized with method=isolation_forest, contamination=0.1, zscore_threshold=3.0
+2025-09-12 15:45:11,275 - BlueDefenderX - INFO - AnomalyDetector initialized with method=isolation_forest, contamination=0.1, zscore_threshold=3.0
+2025-09-12 15:45:11,275 - BlueDefenderX - INFO - Initialized and stored AnomalyDetector in session state as 'anomaly_detector'.
+2025-09-12 15:45:11,275 - BlueDefenderX - INFO - Initialized and stored AnomalyDetector in session state as 'anomaly_detector'.
+2025-09-12 15:45:14,999 - BlueDefenderX - INFO - Initialized and stored Dashboard in session state as 'dashboard_viewer'.
+2025-09-12 15:45:15,011 - BlueDefenderX - INFO - Initialized and stored Dashboard in session state as 'dashboard_viewer'.
+2025-09-12 15:45:15,052 - BlueDefenderX - INFO - Loaded 3 MITRE mappings from config/mitre_mappings.yaml
+2025-09-12 15:45:15,052 - BlueDefenderX - INFO - Loaded 3 MITRE mappings from config/mitre_mappings.yaml
+2025-09-12 15:45:15,052 - BlueDefenderX - INFO - MITREMapper initialized.
+2025-09-12 15:45:15,061 - BlueDefenderX - INFO - Initialized and stored MITREMapper in session state as 'mitre_mapper'.
+2025-09-12 15:45:15,061 - BlueDefenderX - INFO - MITREMapper initialized.
+2025-09-12 15:45:15,061 - BlueDefenderX - INFO - Initialized and stored MITREMapper in session state as 'mitre_mapper'.
+2025-09-12 15:45:15,117 - BlueDefenderX - INFO - Loaded 2 response playbooks from config/playbooks.yaml
+2025-09-12 15:45:15,120 - BlueDefenderX - INFO - Loaded 2 response playbooks from config/playbooks.yaml
+2025-09-12 15:45:15,120 - BlueDefenderX - INFO - IncidentRespondr initialized.
+2025-09-12 15:45:15,120 - BlueDefenderX - INFO - IncidentRespondr initialized.
+2025-09-12 15:45:15,120 - BlueDefenderX - INFO - Initialized and stored IncidentRespondr in session state as 'incident_responder'.
+2025-09-12 15:45:15,126 - BlueDefenderX - INFO - Initialized and stored IncidentRespondr in session state as 'incident_responder'.
+2025-09-12 15:45:15,147 - BlueDefenderX - INFO - TrustController initialized.
+2025-09-12 15:45:15,147 - BlueDefenderX - INFO - TrustController initialized.
+2025-09-12 15:45:15,151 - BlueDefenderX - INFO - Initialized and stored TrustController in session state as 'trust_controller'.
+2025-09-12 15:45:15,152 - BlueDefenderX - INFO - Initialized and stored TrustController in session state as 'trust_controller'.
+2025-09-12 15:45:15,174 - BlueDefenderX - INFO - UBAMonitor initialized.
+2025-09-12 15:45:15,174 - BlueDefenderX - INFO - UBAMonitor initialized.
+2025-09-12 15:45:15,178 - BlueDefenderX - INFO - Initialized and stored UBAMonitor in session state as 'uba_monitor'.
+2025-09-12 15:45:15,178 - BlueDefenderX - INFO - Initialized and stored UBAMonitor in session state as 'uba_monitor'.
+2025-09-12 15:45:15,244 - BlueDefenderX - INFO - Loaded compliance baselines. Total enabled checks: 5
+2025-09-12 15:45:15,252 - BlueDefenderX - INFO - Loaded compliance baselines. Total enabled checks: 5
+2025-09-12 15:45:15,252 - BlueDefenderX - INFO - PolicyWatcher initialized.
+2025-09-12 15:45:15,252 - BlueDefenderX - INFO - PolicyWatcher initialized.
+2025-09-12 15:45:15,257 - BlueDefenderX - INFO - Initialized and stored PolicyWatcher in session state as 'policy_watcher'.
+2025-09-12 15:45:15,258 - BlueDefenderX - INFO - Initialized and stored PolicyWatcher in session state as 'policy_watcher'.
+2025-09-12 15:45:15,285 - BlueDefenderX - INFO - HoneyPotX initialized. Config: Host=0.0.0.0, Port=2222, Service=generic_tcp
+2025-09-12 15:45:15,286 - BlueDefenderX - INFO - HoneyPotX initialized. Config: Host=0.0.0.0, Port=2222, Service=generic_tcp
+2025-09-12 15:45:15,286 - BlueDefenderX - INFO - Initialized and stored HoneyPotX in session state as 'honeypot_manager'.
+2025-09-12 15:45:15,286 - BlueDefenderX - INFO - Initialized and stored HoneyPotX in session state as 'honeypot_manager'.
+2025-09-12 15:45:15,310 - BlueDefenderX - INFO - PurpleTest framework initialized.
+2025-09-12 15:45:15,310 - BlueDefenderX - INFO - PurpleTest framework initialized.
+2025-09-12 15:45:15,310 - BlueDefenderX - INFO - Initialized and stored PurpleTest in session state as 'purple_tester'.
+2025-09-12 15:45:15,310 - BlueDefenderX - INFO - Initialized and stored PurpleTest in session state as 'purple_tester'.
+2025-09-12 15:45:15,318 - BlueDefenderX - INFO - Initialized and stored ReconX in session state as 'recon_tool'.
+2025-09-12 15:45:15,318 - BlueDefenderX - INFO - Initialized and stored ReconX in session state as 'recon_tool'.
+2025-09-12 15:45:15,343 - BlueDefenderX - INFO - Initialized and stored Injector in session state as 'injector_tool'.
+2025-09-12 15:45:15,343 - BlueDefenderX - INFO - Initialized and stored Injector in session state as 'injector_tool'.
+2025-09-12 15:45:15,368 - BlueDefenderX - INFO - Initialized and stored Bypasser in session state as 'bypasser_tool'.
+2025-09-12 15:45:15,376 - BlueDefenderX - INFO - Initialized and stored Bypasser in session state as 'bypasser_tool'.
+2025-09-12 15:45:15,400 - BlueDefenderX - INFO - Initialized and stored PathCrawler in session state as 'crawler_tool'.
+2025-09-12 15:45:15,400 - BlueDefenderX - INFO - Initialized and stored PathCrawler in session state as 'crawler_tool'.
+2025-09-12 15:45:15,433 - BlueDefenderX - INFO - Initialized and stored CookieSnatcher in session state as 'cookie_snatcher_tool'.
+2025-09-12 15:45:15,441 - BlueDefenderX - INFO - Initialized and stored CookieSnatcher in session state as 'cookie_snatcher_tool'.
+2025-09-12 15:45:15,468 - BlueDefenderX - INFO - Initialized and stored Obfuscator in session state as 'obfuscator_tool'.
+2025-09-12 15:45:15,468 - BlueDefenderX - INFO - Initialized and stored Obfuscator in session state as 'obfuscator_tool'.
+2025-09-12 15:45:15,499 - BlueDefenderX - INFO - Initialized and stored SSRFHunter in session state as 'ssrf_hunter_tool'.
+2025-09-12 15:45:15,501 - BlueDefenderX - INFO - Initialized and stored SSRFHunter in session state as 'ssrf_hunter_tool'.
+2025-09-12 15:45:15,574 - BlueDefenderX - INFO - Initialized and stored ExploitX in session state as 'exploit_launcher_tool'.
+2025-09-12 15:45:15,574 - BlueDefenderX - INFO - Initialized and stored ExploitX in session state as 'exploit_launcher_tool'.
+2025-09-12 15:45:15,605 - BlueDefenderX - INFO - Initialized and stored PayloadForge in session state as 'payload_forge_tool'.
+2025-09-12 15:45:15,605 - BlueDefenderX - INFO - Initialized and stored PayloadForge in session state as 'payload_forge_tool'.
+2025-09-12 15:45:15,638 - BlueDefenderX - INFO - Initialized and stored EndpointAgent in session state as 'endpoint_agent'.
+2025-09-12 15:45:15,638 - BlueDefenderX - INFO - Initialized and stored EndpointAgent in session state as 'endpoint_agent'.
+2025-09-13 06:45:36,111 - BlueDefenderX - INFO - LogDefenderX initialized.
+2025-09-13 06:45:36,112 - BlueDefenderX - INFO - Initialized and stored LogDefenderX in session state as 'log_defender'.
+2025-09-13 06:45:36,521 - BlueDefenderX - INFO - Loaded 2 rules from config/rules.yaml
+2025-09-13 06:45:36,523 - BlueDefenderX - INFO - SIEMLite initialized.
+2025-09-13 06:45:36,525 - BlueDefenderX - INFO - Initialized and stored SIEMLite in session state as 'siem_engine'.
+2025-09-13 06:45:39,277 - BlueDefenderX - INFO - Loaded 1 enabled threat feeds from config/feedsources.json
+2025-09-13 06:45:39,278 - BlueDefenderX - INFO - ThreatFeedSync initialized.
+2025-09-13 06:45:39,279 - BlueDefenderX - INFO - Initialized and stored ThreatFeedSync in session state as 'threat_intel_engine'.
+2025-09-13 06:46:08,587 - BlueDefenderX - INFO - AnomalyDetector initialized with method=isolation_forest, contamination=0.1, zscore_threshold=3.0
+2025-09-13 06:46:08,591 - BlueDefenderX - INFO - Initialized and stored AnomalyDetector in session state as 'anomaly_detector'.
+2025-09-13 06:46:12,079 - BlueDefenderX - INFO - Initialized and stored Dashboard in session state as 'dashboard_viewer'.
+2025-09-13 06:46:12,119 - BlueDefenderX - INFO - Loaded 3 MITRE mappings from config/mitre_mappings.yaml
+2025-09-13 06:46:12,119 - BlueDefenderX - INFO - MITREMapper initialized.
+2025-09-13 06:46:12,121 - BlueDefenderX - INFO - Initialized and stored MITREMapper in session state as 'mitre_mapper'.
+2025-09-13 06:46:12,149 - BlueDefenderX - INFO - Loaded 2 response playbooks from config/playbooks.yaml
+2025-09-13 06:46:12,150 - BlueDefenderX - INFO - IncidentRespondr initialized.
+2025-09-13 06:46:12,151 - BlueDefenderX - INFO - Initialized and stored IncidentRespondr in session state as 'incident_responder'.
+2025-09-13 06:46:12,161 - BlueDefenderX - INFO - TrustController initialized.
+2025-09-13 06:46:12,164 - BlueDefenderX - INFO - Initialized and stored TrustController in session state as 'trust_controller'.
+2025-09-13 06:46:12,174 - BlueDefenderX - INFO - UBAMonitor initialized.
+2025-09-13 06:46:12,175 - BlueDefenderX - INFO - Initialized and stored UBAMonitor in session state as 'uba_monitor'.
+2025-09-13 06:46:12,219 - BlueDefenderX - INFO - Loaded compliance baselines. Total enabled checks: 5
+2025-09-13 06:46:12,221 - BlueDefenderX - INFO - PolicyWatcher initialized.
+2025-09-13 06:46:12,222 - BlueDefenderX - INFO - Initialized and stored PolicyWatcher in session state as 'policy_watcher'.
+2025-09-13 06:46:12,241 - BlueDefenderX - INFO - HoneyPotX initialized. Config: Host=0.0.0.0, Port=2222, Service=generic_tcp
+2025-09-13 06:46:12,242 - BlueDefenderX - INFO - Initialized and stored HoneyPotX in session state as 'honeypot_manager'.
+2025-09-13 06:46:12,263 - BlueDefenderX - INFO - PurpleTest framework initialized.
+2025-09-13 06:46:12,264 - BlueDefenderX - INFO - Initialized and stored PurpleTest in session state as 'purple_tester'.
+2025-09-13 06:46:12,266 - BlueDefenderX - INFO - Initialized and stored ReconX in session state as 'recon_tool'.
+2025-09-13 06:46:12,287 - BlueDefenderX - INFO - Initialized and stored Injector in session state as 'injector_tool'.
+2025-09-13 06:46:12,304 - BlueDefenderX - INFO - Initialized and stored Bypasser in session state as 'bypasser_tool'.
+2025-09-13 06:46:12,326 - BlueDefenderX - INFO - Initialized and stored PathCrawler in session state as 'crawler_tool'.
+2025-09-13 06:46:12,349 - BlueDefenderX - INFO - Initialized and stored CookieSnatcher in session state as 'cookie_snatcher_tool'.
+2025-09-13 06:46:12,368 - BlueDefenderX - INFO - Initialized and stored Obfuscator in session state as 'obfuscator_tool'.
+2025-09-13 06:46:12,390 - BlueDefenderX - INFO - Initialized and stored SSRFHunter in session state as 'ssrf_hunter_tool'.
+2025-09-13 06:46:12,443 - BlueDefenderX - INFO - Initialized and stored ExploitX in session state as 'exploit_launcher_tool'.
+2025-09-13 06:46:12,463 - BlueDefenderX - INFO - Initialized and stored PayloadForge in session state as 'payload_forge_tool'.
+2025-09-13 06:46:12,486 - BlueDefenderX - INFO - Initialized and stored EndpointAgent in session state as 'endpoint_agent'.
