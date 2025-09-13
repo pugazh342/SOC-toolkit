@@ -40,13 +40,14 @@ class EndpointAgent:
         """
         self.config = config or self._get_default_config()
         self.collection_interval = self.config.get('collection_interval', 60)
+        self.output_path = output_path
         self.output_dir = self.config.get('output_dir', './telemetry_output')
         self.output_format = self.config.get('output_format', 'json').lower()
         self.hostname = platform.node()
         self.os_info = f"{platform.system()} {platform.release()}"
         self.is_collecting = False
 
-        os.makedirs(self.output_dir, exist_ok=True) # Ensure output directory exists
+        os.makedirs(os.path.dirname(self.output_dir), exist_ok=True) # Ensure output directory exists
         logger.info(f"EndpointAgent initialized. Host: {self.hostname} ({self.os_info}). Config: Interval={self.collection_interval}s, OutputDir={self.output_dir}, Format={self.output_format}")
 
     def _get_default_config(self):
@@ -373,5 +374,6 @@ if __name__ == '__main__':
 
     print("-" * 30)
     print("EndpointAgent demo completed.")
+
 
 
