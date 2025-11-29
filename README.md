@@ -125,8 +125,8 @@
  ### Installation
  
  ```bash
- git clone https://github.com/your_username/BlueDefenderX.git
- cd BlueDefenderX
+ git clone https://github.com/pugazh3412/SOC_Toolkit.git
+ cd SOC_Toolkit
  python -m venv bd_env
  # Activate the venv
  # Windows:
