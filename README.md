@@ -130,7 +130,7 @@
  python -m venv bd_env
  # Activate the venv
  # Windows:
- bd_env\Scriptsctivate
+ bd_env\Scripts/activate
  # Linux/macOS:
  source bd_env/bin/activate
  
